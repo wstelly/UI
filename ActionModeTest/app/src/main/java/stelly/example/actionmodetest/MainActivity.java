@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
                 MenuInflater inflater = actionMode.getMenuInflater();
                 inflater.inflate(R.menu.action_mode, menu);
                 actionMode.setTitle("1 selected");
-                
+
 
                 return true;
             }
